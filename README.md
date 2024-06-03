@@ -6,7 +6,7 @@ Latex template for ZUFE thesis. Modified from [here](https://code.google.com/p/t
 
 根据 天津大学本科生毕业论文 按照要求修改而来的适合 浙江财经大学 毕业论文的 LaTeX 模版。
 
-由于只更改了封面页，下述所有说明也按照tjuthesis工作的介绍，感谢他们的工作！
+由于只更改了封面页，调整页眉页脚格式，所以对于如何使用即下述所有说明也按照tjuthesis工作的介绍，感谢他们的工作！
 
 # 为何使用 LaTeX
 
