@@ -24,6 +24,7 @@
 \newcommand{\wuhao}{\fontsize{10.5pt}{10.5pt}\selectfont}   % 五号, 单倍行距
 \newcommand{\xiaowu}{\fontsize{9pt}{9pt}\selectfont}        % 小五, 单倍行距
 
+\newcommand{\xiaosionetwo}{\fontsize{12pt}{11.55pt}\selectfont}      % 小四, 20磅 = word 1.2倍行距
 %\CJKtilde  % 重新定义了波浪符~的意义
 % JUST DON'T USE CJK
 % 使用 ctexbook 之后已无必要
@@ -121,8 +122,8 @@
 % \titlespacing{\subsubsection}{0pt}{0.05\baselineskip}{0.1\baselineskip}
 
 %%%%%%%%%% Table, Figure and Equation %%%%%%%%%%%%%%%%%
-\renewcommand{\tablename}{表}                                     % 插表题头
-\renewcommand{\figurename}{图}                                    % 插图题头
+\renewcommand{\tablename}{\kai\wuhao 表}                                     % 插表题头
+\renewcommand{\figurename}{\kai\wuhao 图}                                    % 插图题头
 \renewcommand{\thefigure}{\arabic{section}-\arabic{figure}}       % 使图编号为 7-1 的格式 %\protect{~}
 \renewcommand{\thesubfigure}{\alph{subfigure})}                   % 使子图编号为 a) 的格式
 \renewcommand{\thesubtable}{(\alph{section})}                    % 使子表编号为 (a) 的格式
@@ -134,9 +135,9 @@
 \makeatletter
 \long\def\@makecaption#1#2{
    \vskip\abovecaptionskip
-   \sbox\@tempboxa{\centering\wuhao\song{#1\qquad #2} }
+   \sbox\@tempboxa{\centering\wuhao\song{#1~~#2} }
    \ifdim \wd\@tempboxa >\hsize
-     \centering\wuhao\song{#1\qquad #2} \par
+     \centering\wuhao\song{#1 ~~ #2} \par
    \else
      \global \@minipagefalse
      \hb@xt@\hsize{\hfil\box\@tempboxa\hfil}
