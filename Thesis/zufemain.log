@@ -1124,4 +1124,70 @@ File: utxsyc.fd 2000/12/15 v3.1
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <13> not available
 (Font)              Font shape `T1/txr/bx/n' tried instead on input line 31.
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10.5> not available
-(Font)              Font shape `T1/txr/bx/n' tried inste
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 47.
+ [1
+
+])
+LaTeX Font Info:    Font shape `T1/txr/b/n' in size <15.75> not available
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 38.
+
+
+LaTeX Font Warning: Font shape `TU/KaiTi(0)/b/n' undefined
+(Font)              using `TU/KaiTi(0)/m/n' instead on input line 38.
+
+
+LaTeX Font Warning: Font shape `TU/SimHei(0)/b/n' undefined
+(Font)              using `TU/SimHei(0)/m/n' instead on input line 46.
+
+[1]
+LaTeX Font Info:    Font shape `T1/txr/b/n' in size <17.28> not available
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 67.
+ (./zufemain.toc
+
+LaTeX Font Warning: Font shape `OML/eur/m/n' in size <10.53937> not available
+(Font)              size <10.95> substituted on input line 7.
+
+
+LaTeX Font Warning: Font shape `OML/eur/m/n' in size <7.52812> not available
+(Font)              size <8> substituted on input line 7.
+
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 7.
+(e:/Code life/texlive/2023/texmf-dist/tex/latex/txfonts/ts1txr.fd
+File: ts1txr.fd 2000/12/15 v3.1
+))
+\tf@toc=\write4
+\openout4 = `zufemain.toc'.
+
+ [2]
+\openout2 = `body.aux'.
+
+ (./body.tex
+LaTeX Font Info:    Font shape `T1/txr/b/n' in size <14.4> not available
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 18.
+ [1
+
+] [2] [3]) [4]
+\tf@thm=\write5
+\openout5 = `zufemain.thm'.
+
+ (./zufemain.aux (./body.aux))
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.0pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `zufemain.out' has not changed.
+(rerunfilecheck)             Checksum: 2B8FB25955FD1512EFB2193744332D62;850.
+ ) 
+Here is how much of TeX's memory you used:
+ 23571 strings out of 476683
+ 483920 string characters out of 5803164
+ 1868012 words of memory out of 5000000
+ 43384 multiletter control sequences out of 15000+600000
+ 599166 words of font info for 234 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 89i,11n,97p,1295b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on zufemain.pdf (7 pages).

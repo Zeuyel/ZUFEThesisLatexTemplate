@@ -1,0 +1,14 @@
+\ttl@change@i {\@ne }{section}{0em}{\zihao {4}\song }{\thecontentslabel ~~ }{}{\hspace {.5em} \titlerule *[0.7pc]{$\cdot $}\contentspage }\relax 
+\ttl@change@v {section}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsection}{1em}{\zihao {-4}\song }{\thecontentslabel ~~ }{}{\hspace {.5em} \titlerule *[0.7pc]{$\cdot $}\contentspage }\relax 
+\ttl@change@v {subsection}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsubsection}{2em}{\zihao {-4}\song }{\thecontentslabel ~~ }{}{\hspace {.5em} \titlerule *[0.7pc]{$\cdot $}\contentspage }\relax 
+\ttl@change@v {subsubsection}{}{}{}\relax 
+\contentsline {section}{\numberline {1}引言}{1}{section*.1}%
+\contentsline {subsection}{\numberline {1.1}研究背景}{1}{section*.2}%
+\contentsline {section}{\numberline {2}特征事实}{2}{section*.3}%
+\contentsline {section}{\numberline {3}DMP模型的概念与提出}{3}{section*.5}%
+\contentsline {subsection}{\numberline {3.1}搜寻和搜寻理论的缘起}{3}{section*.6}%
+\contentsline {subsection}{\numberline {3.2}基于DMP模型下的定性分析}{3}{section*.7}%
+\contentsline {section}{\numberline {4}结论以及政策改善}{4}{section*.8}%
+\contentsfinish 
